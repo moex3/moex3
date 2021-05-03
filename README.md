@@ -9,3 +9,5 @@ Github has become the standard way of distributing open source software. Some pe
 Mirror your projects, advertise your links.
 
 ![Github doesn't allow emails from cock.li](https://raw.githubusercontent.com/moex3/moex3/master/cannot-be-verified.png "My latest annoyance")
+
+[related](https://github.community/t/1736)
